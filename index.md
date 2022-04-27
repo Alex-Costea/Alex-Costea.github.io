@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Alcostar
 
-You can use the [editor on GitHub](https://github.com/Alex-Costea/Alex-Costea.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam molestie diam ac neque finibus, vitae posuere arcu malesuada. Aenean viverra luctus nisl, eget rhoncus tortor venenatis sit amet. Nulla vitae turpis ac ligula bibendum luctus. Praesent vel egestas magna. Praesent eget massa odio. Sed sit amet cursus urna. Sed enim lorem, molestie et purus eu, tempus pellentesque sapien. Donec quis ligula ut lacus convallis mollis vestibulum sed mauris. Nulla nunc elit, dignissim eget porttitor in, viverra non elit. Vivamus laoreet semper neque, vel hendrerit neque convallis ac. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus leo enim, sagittis id feugiat at, gravida eget metus. Donec nec sapien vehicula, commodo mauris in, euismod enim. Duis massa metus, viverra at ligula placerat, euismod laoreet neque. Proin blandit eros odio, at lobortis augue elementum non.
 
-### Markdown
+Nulla urna sem, ullamcorper id viverra non, accumsan vitae erat. Nullam sem nisl, facilisis non accumsan in, congue laoreet nunc. Maecenas orci est, aliquam quis enim et, finibus mattis ex. In quis ex arcu. Maecenas consectetur justo id purus hendrerit, et venenatis ligula tristique. Nunc mattis mauris vel enim bibendum, nec aliquam arcu vulputate. Curabitur lobortis vehicula tincidunt. In arcu risus, tempor ut eleifend vel, molestie nec sapien. Praesent vehicula vitae turpis vel dapibus. Etiam gravida fermentum nibh, eu lobortis augue finibus quis. Mauris hendrerit eget lacus eget varius. Aliquam varius elit ante, in congue sem aliquet in. Maecenas ut massa non elit eleifend congue et sit amet ante.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Etiam auctor mattis massa, sit amet venenatis mi finibus non. Donec a hendrerit est. Quisque varius eleifend sapien, non vehicula mauris tincidunt eu. Nullam et sodales erat, sit amet congue turpis. Donec pellentesque massa non diam sodales, quis posuere dui tempus. Mauris sollicitudin viverra quam, in pharetra enim mattis eget. Nunc id nunc a orci aliquam pharetra ac eget purus. Mauris pulvinar laoreet imperdiet. Suspendisse eget tempus purus. Nam condimentum pellentesque dapibus. Duis pulvinar, urna quis luctus maximus, neque massa egestas nisl, at aliquam magna eros id magna. Phasellus tempor lobortis nibh, sed pharetra diam. Ut iaculis lacus non eros mollis scelerisque. Quisque eu ante ullamcorper, rutrum est vitae, accumsan quam. Sed aliquam convallis eros nec ullamcorper. Etiam pellentesque posuere augue, a pharetra ipsum.
 
-```markdown
-Syntax highlighted code block
+Integer laoreet ipsum eget eros tempus, at bibendum justo suscipit. Cras velit ex, maximus egestas tincidunt scelerisque, feugiat feugiat ante. Quisque auctor eget ligula vel mattis. Curabitur nec aliquet massa, vitae congue felis. In mollis, nibh id mollis placerat, odio lorem ultrices velit, ut dictum justo mi eu enim. Etiam dictum dolor et bibendum varius. Quisque placerat, augue et dictum placerat, neque diam rutrum libero, sit amet tincidunt diam eros nec mi. Praesent vitae placerat orci.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Alex-Costea/Alex-Costea.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Mauris in euismod odio, in lobortis enim. Nullam molestie sem eu nibh elementum fringilla. Maecenas mollis placerat tempor. Maecenas porttitor lectus sit amet nunc dictum, vel fringilla nunc eleifend. Nunc elementum eros sapien, eu tempus magna convallis sit amet. Donec eu massa quam. Ut tortor est, aliquet quis ultrices nec, commodo accumsan nulla. Vestibulum sit amet eleifend arcu. Curabitur pretium venenatis elit, sed auctor felis sollicitudin ut. In condimentum leo a diam rhoncus, eu luctus justo euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu tempor ex, in pretium lectus.
