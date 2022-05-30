@@ -8,6 +8,6 @@ Hello, this is the personal webpage of **Alex Costea**.
 
 - [LinkedIn profile](https://www.linkedin.com/in/alexcostea2520/)
 
-- [StackOverflow profile](stackoverflow.com/users/11037997)
+- [StackOverflow profile](https://stackoverflow.com/users/11037997)
 
 - Music: [Bandcamp](https://alcostar.bandcamp.com/), [Youtube](https://www.youtube.com/channel/UCMlfqyhasgXghJhx8PwFNww)
