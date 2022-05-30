@@ -1,11 +1,9 @@
-## Alcostar.net
-
-Hello, this is the personal webpage of Alex Costea.
+Hello, this is the personal webpage of **Alex Costea**.
 
 ## Relevant Links
 
-[Music](https://alcostar.bandcamp.com/)
+[Resume](https://alcostar.net/resume.pdf)
 
 [Projects](https://github.com/Alex-Costea)
 
-[Resume](https://alcostar.net/resume.pdf)
+[Music](https://alcostar.bandcamp.com/)
