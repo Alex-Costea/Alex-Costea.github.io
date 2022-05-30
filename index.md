@@ -2,8 +2,12 @@ Hello, this is the personal webpage of **Alex Costea**.
 
 ## Relevant Links
 
-[Resume](https://alcostar.net/resume.pdf)
+- [Resume](https://alcostar.net/resume.pdf)
 
-[Projects](https://github.com/Alex-Costea)
+- [Software Projects](https://github.com/Alex-Costea)
 
-[Music](https://alcostar.bandcamp.com/)
+- [LinkedIn profile](https://www.linkedin.com/in/alexcostea2520/)
+
+- [StackOverflow profile](stackoverflow.com/users/11037997)
+
+- Music: [Bandcamp](https://alcostar.bandcamp.com/), [Youtube](https://www.youtube.com/channel/UCMlfqyhasgXghJhx8PwFNww)
