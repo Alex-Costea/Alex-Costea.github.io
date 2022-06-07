@@ -2,7 +2,7 @@ Hello, this is the personal webpage of **Alex Costea**.
 
 ## Relevant Links
 
-- [Resume](https://alcostar.net/resume.pdf)
+- [Resume](https://alex.costea.in/resume.pdf)
 
 - [Software Projects](https://github.com/Alex-Costea)
 
