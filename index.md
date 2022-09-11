@@ -17,3 +17,5 @@ Hello, this is the personal webpage of **Alex Costea**.
 - [Promo compiler](https://alex.costea.in/Promo/)
 
 - [Greatest Hits!](http://apps.costea.in/GreatestHits)
+
+- [Bachelor's Thesis](https://github.com/Alex-Costea/Bachelors-Thesis/blob/main/Bachelor's%20Thesis.pdf)
