@@ -20,6 +20,6 @@ If you are interested in my services, contact me on my LinkedIn or on my email a
 
 - [Greatest Hits!](http://apps.costea.in/GreatestHits) - A website hosting my music charts simulator.
 
-- [Bachelor's Thesis](https://github.com/Alex-Costea/Bachelors-Thesis/blob/main/Bachelor's%20Thesis.pdf) - The final thesis for my Bachelor's of Science at the University of Amsterdam. It is a research project in Computational Sociology.
+- [Bachelor's Thesis](https://github.com/Alex-Costea/Bachelors-Thesis/blob/main/Bachelor's%20Thesis.pdf) - The final thesis for my Bachelor's of Science at the University of Amsterdam. The thesis involves a theoretical section, as well as statistical analysis of data collected programmatically from Twitter.
 
 - [Promo compiler](https://alex.costea.in/Promo/) - A compiler for a minimalist Turing Complete language that involves strong optimizations.
