@@ -1,6 +1,6 @@
-Hello, this is my personal home page. I am a software developer from Bucharest, Romania, employed full-time by SAP but also coding my own personal projects. On this page you can find my resume, as well as relevant links pertaining to me and my work.
+Hello! Welcome to my personal home page. I am a software developer based in Bucharest, Romania and currently working full-time at SAP while also pursuing my personal projects. Here, you can find my resume and relevant links related to me and my work.
 
-If you are interested in my services, contact me on my LinkedIn or on my email address: alex@costea.in.
+If you are interested in my services, please feel free to connect with me on LinkedIn or via email at alex@costea.in.
 
 ## Relevant Links
 
@@ -12,14 +12,14 @@ If you are interested in my services, contact me on my LinkedIn or on my email a
 
 - [StackOverflow profile](https://stackoverflow.com/users/11037997)
 
-- My music (yes, I also make music 😄): [Bandcamp](https://alcostar.bandcamp.com/), [Youtube](https://www.youtube.com/channel/UCMlfqyhasgXghJhx8PwFNww)
+- [My music](https://alcostar.bandcamp.com/) (yes, I also make music 😄).
 
 ## Projects
 
-- [Wiles](https://alex.costea.in/Wiles/) - A programming language specification, as well as a syntax parser for the language with a full interpreter in the works.
+- [Wiles](https://alex.costea.in/Wiles/) - Programming language specification and syntax parser with full interpreter in development.
 
 - [Greatest Hits!](http://apps.costea.in/GreatestHits) - A website hosting my music charts simulator.
 
-- [Bachelor's Thesis](https://github.com/Alex-Costea/Bachelors-Thesis/blob/main/Bachelor's%20Thesis.pdf) - The final thesis for my Bachelor's of Science at the University of Amsterdam. The thesis involves a theoretical section, as well as statistical analysis of data collected programmatically from Twitter.
+- [Bachelor's Thesis](https://github.com/Alex-Costea/Bachelors-Thesis/blob/main/Bachelor's%20Thesis.pdf) - Final thesis for my Bachelor's of Science at the University of Amsterdam, including a theoretical section and statistical analysis of Twitter data.
 
-- [Promo compiler](https://alex.costea.in/Promo/) - A compiler for a minimalist Turing Complete language that involves strong optimizations.
+- [Promo compiler](https://alex.costea.in/Promo/) - A compiler for a minimalist, Turing complete language with strong optimizations.
