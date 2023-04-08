@@ -4,7 +4,7 @@ If you are interested in my services, please feel free to connect with me on Lin
 
 ## Relevant Links
 
-- [Resume](https://alex.costea.in/resume.pdf)s
+- [Resume](https://alex.costea.in/resume.pdf)
 
 - [GitHub](https://github.com/Alex-Costea)
 
