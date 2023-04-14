@@ -12,14 +12,14 @@ If you are interested in my services, please feel free to connect with me on Lin
 
 - [StackOverflow profile](https://stackoverflow.com/users/11037997)
 
-- [My music](https://alcostar.bandcamp.com/) (yes, I also make music 😄).
+- [My music](https://alcostar.bandcamp.com/) (yes, I also make music 😄)
 
 ## Projects
 
-- [Wiles](https://alex.costea.in/Wiles/) - Programming language specification and interpreter,.
+- [Wiles](https://alex.costea.in/Wiles/) - Programming language specification and interpreter
 
-- [Greatest Hits!](http://apps.costea.in/GreatestHits) - A website hosting my music charts simulator.
+- [Greatest Hits!](http://apps.costea.in/GreatestHits) - A website hosting my music charts simulator
  
-- [Bachelor's Thesis](https://github.com/Alex-Costea/Bachelors-Thesis/blob/main/Bachelor's%20Thesis.pdf) - Final thesis for my Bachelor's of Science at the University of Amsterdam, including a theoretical section and statistical analysis of Twitter data.
+- [Bachelor's Thesis](https://github.com/Alex-Costea/Bachelors-Thesis/blob/main/Bachelor's%20Thesis.pdf) - Final thesis for my Bachelor's of Science at the University of Amsterdam, including a theoretical section and statistical analysis of Twitter data
 
-- [Promo compiler](https://alex.costea.in/Promo/) - A compiler for a minimalist, Turing complete language with strong optimizations.
+- [Promo compiler](https://alex.costea.in/Promo/) - A compiler for a minimalist, Turing complete language with strong optimizations
