@@ -22,4 +22,4 @@ If you are interested in my services, please feel free to connect with me on Lin
  
 - [Bachelor's Thesis](https://github.com/Alex-Costea/Bachelors-Thesis/blob/main/Bachelor's%20Thesis.pdf) - Final thesis for my Bachelor's of Science at the University of Amsterdam, including a theoretical section and statistical analysis of Twitter data
 
-- [Promo compiler](https://alex.costea.in/Promo/) - A compiler for a minimalist, Turing complete language with strong optimizations
+- [Snake](https://alex.costea.in/Snake/) - Simple Snake game in the web browser
