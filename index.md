@@ -16,9 +16,9 @@ If you are interested in my services, please feel free to connect with me on Lin
 
 ## Projects
 
-- [Wiles](https://alex.costea.in/Wiles/) - Programming language specification and interpreter
+- [Wiles](https://wiles.costea.in/) - Programming language specification and interpreter
 
-- [Greatest Hits!](http://apps.costea.in/GreatestHits) - A website hosting my music charts simulator
+- [Greatest Hits!](https://greatest-hits.costea.in/) - A website hosting my music charts simulator
  
 - [Bachelor's Thesis](https://github.com/Alex-Costea/Bachelors-Thesis/blob/main/Bachelor's%20Thesis.pdf) - Final thesis for my Bachelor's of Science at the University of Amsterdam, including a theoretical section and statistical analysis of Twitter data
 
