@@ -175,24 +175,19 @@
 \section{Projects}
     \resumeSubHeadingListStart
       \resumeProjectHeading
-          {\textbf{\href{https://wiles.costea.in/}{\underline{Wiles (language \& online interpreter)}}} $|$ \emph{Kotlin, Java, TypeScript, React, AWS}}{August 2022 -- Present}
+          {\textbf{\href{https://wiles.costea.in/}{\underline{Wiles (programming language, online code editor and interpreter)}}}}{August 2022 -- Present}
           \resumeItemListStart
             \resumeItem{Designed the specifications for a programming language, supporting features such as conditional statements, loops, basic data types, first-class functions, generics, sum types, hash maps, pattern matching and type inference}
             \resumeItem{Developed the software architecture for the language's interpreter using design patterns in order to optimize for code reuse, maintainability and performance}
             \resumeItem{Implemented algorithms to parse the input code into an Abstract Syntax Tree, as well as to check the input code for correctness and type safety and to infer unspecified type definitions}
             \resumeItem{Created an interpreter which executes the commands corresponding to the type-checked syntax tree}
-            \resumeItem{Built a web app which allows users to interact with the Wiles interpreter online, developed using TypeScript, React and Next.js for the front-end and Java and Spring Web for the back-end. Deployed the web app using AWS.}
-            \resumeItem{Wrote extensive tests to thoroughly test the application for correctness, achieving 90\%+ test coverage}
+            \resumeItem{Developed a Java and Spring Web based back-end for the online interpreter, which can receive REST API calls with Wiles code to execute and return the output, with support for concurrent calls}
+            \resumeItem{Built a front-end which allows users to interact with the Wiles interpreter online as well as locally, developed using TypeScript, React, CSS and Next.js}
+            \resumeItem{Created Shell scripts in order to automate the integration of the front-end and the back-end, as well as the process of deploying the application either online or locally}
+            \resumeItem{Developed solutions to ensure the security of the application and mitigate vulnerabilities such as CORS, XSRF, and insecure HTTP requests}
+            \resumeItem{Deployed the application online using Amazon Web Services, specifically using the Lightsail service}
+            \resumeItem{Wrote extensive tests to thoroughly test the application for correctness, achieving 90\%+ test coverage for the interpreter}
 
-          \resumeItemListEnd
-      \resumeProjectHeading
-          {\textbf{{\href{https://greatest-hits.costea.in/}{\underline{Greatest Hits! (music charts simulator)}}}} $|$ \emph{Java, JavaScript, AWS, Spring, Thymeleaf}}{2020 -- Present}
-          \resumeItemListStart
-            \resumeItem{Designed a realistic music charts mathematical model in order to simulate the progression of songs' success}
-            \resumeItem{Persisted charts data using a custom JSON-based data format}
-            \resumeItem{Implemented a REST API using Spring Web and Thymeleaf for access to songs, artists and chart history}
-            \resumeItem{Developed front-end functionality corresponding to the REST API's features using JavaScript and CSS}
-            \resumeItem{Configured Apache Tomcat server and deployed the application to Amazon Web Services}
           \resumeItemListEnd
           
     \resumeSubHeadingListEnd
