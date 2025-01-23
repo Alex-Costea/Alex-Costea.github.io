@@ -12,7 +12,7 @@ If you are interested in my services, please feel free to connect with me on Lin
 
 - [StackOverflow profile](https://stackoverflow.com/users/11037997)
 
-- [My music](https://music.costea.in/) (yes, I also make music 😄)
+- [My music](https://www.alcostar.net/) (yes, I also make music 😄)
 
 ## Projects
 
