@@ -1,4 +1,4 @@
-Hello! Welcome to my personal home page. I am a software developer based in Bucharest, Romania and currently working full-time at SAP while also pursuing my personal projects. Here, you can find my resume and relevant links related to me and my work.
+Hey! I am **Alex Costea**, a software engineer based in Syracuse, New York.
 
 If you are interested in my services, please feel free to connect with me on LinkedIn or via email at alex@costea.in.
 
@@ -10,16 +10,15 @@ If you are interested in my services, please feel free to connect with me on Lin
 
 - [LinkedIn profile](https://www.linkedin.com/in/alexcostea2520/)
 
-- [StackOverflow profile](https://stackoverflow.com/users/11037997)
-
-- [My music](https://www.alcostar.net/) (yes, I also make music 😄)
-
 ## Projects
+
+- [Alcostar](https://www.alcostar.net/) - Online music player for my music
 
 - [Wiles](https://wiles.costea.in/) - Programming language specification and interpreter
 
 - [Greatest Hits!](https://github.com/Alex-Costea/Greatest-Hits) - Music charts simulator
  
-- [Bachelor's Thesis](https://github.com/Alex-Costea/Bachelors-Thesis/blob/main/Bachelor's%20Thesis.pdf) - Final thesis for my Bachelor's of Science at the University of Amsterdam, including a theoretical section and statistical analysis of Twitter data
+- [Bachelor's Thesis](https://github.com/Alex-Costea/Bachelors-Thesis/blob/main/Bachelor's%20Thesis.pdf) - Final thesis for my Bachelor's of Science at the University of Amsterdam, 
+including a theoretical section and statistical analysis of X (previously Twitter) data
 
 - [Snake](https://alex.costea.in/Snake/) - Simple Snake game in the web browser
