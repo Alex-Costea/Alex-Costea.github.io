@@ -10,6 +10,8 @@ If you are interested in my services, please feel free to connect with me on Lin
 
 - [LinkedIn profile](https://www.linkedin.com/in/alexcostea2520/)
 
+- [X / Twitter](https://x.com/alco_star_)
+
 ## Projects
 
 - [Alcostar](https://www.alcostar.net/) - Online music player for my music
