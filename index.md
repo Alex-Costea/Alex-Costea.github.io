@@ -1,4 +1,4 @@
-Hey! I am **Alex Costea**, a software engineer based in Syracuse, New York.
+Hey! I am **Alex Costea**, a research software engineer based for **Metaculus** in Rochester, New York.
 
 If you are interested in my services, please feel free to connect with me on LinkedIn or via email at alex@costea.in.
 
@@ -14,9 +14,9 @@ If you are interested in my services, please feel free to connect with me on Lin
 
 - [Alcostar](https://www.alcostar.net/) - Online music player for my music
 
-- [Wiles](https://wiles.costea.in/) - Programming language specification and interpreter
+- [Wiles](https://alex.costea.in/Wiles/) - Programming language specification and interpreter
 
-- [Greatest Hits!](https://github.com/Alex-Costea/Greatest-Hits) - Music charts simulator
+- [Cogfuncs](https://www.cogfuncs.com/) - Psyche explainer
  
 - [Bachelor's Thesis](https://github.com/Alex-Costea/Bachelors-Thesis/blob/main/Bachelor's%20Thesis.pdf) - Final thesis for my Bachelor's of Science at the University of Amsterdam, 
 including a theoretical section and statistical analysis of X (previously Twitter) data
