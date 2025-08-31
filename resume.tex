@@ -5,7 +5,7 @@
 % License : MIT
 %------------------------
 
-\documentclass[letterpaper,10pt]{article}
+\documentclass[letterpaper,11pt]{article}
 
 \usepackage{latexsym}
 \usepackage[empty]{fullpage}
@@ -19,18 +19,6 @@
 \usepackage[english]{babel}
 \usepackage{tabularx}
 \input{glyphtounicode}
-
-
-%----------FONT OPTIONS----------
-% sans-serif
-% \usepackage[sfdefault]{FiraSans}
-% \usepackage[sfdefault]{roboto}
-% \usepackage[sfdefault]{noto-sans}
-% \usepackage[default]{sourcesanspro}
-
-% serif
-% \usepackage{CormorantGaramond}
-% \usepackage{charter}
 
 
 \pagestyle{fancy}
@@ -106,12 +94,6 @@
 
 \begin{document}
 
-%----------HEADING----------
-% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
-%   \textbf{\href{http://sourabhbajaj.com/}{\Large Sourabh Bajaj}} & Email : \href{mailto:sourabh@sourabhbajaj.com}{sourabh@sourabhbajaj.com}\\
-%   \href{http://sourabhbajaj.com/}{http://www.sourabhbajaj.com} & Mobile : +1-123-456-7890 \\
-% \end{tabular*}
-
 \begin{center}
 \textbf{\Huge \scshape Alex Costea} \\ \vspace{1pt}
 \small Rochester, New York $|$ \href{mailto:alex@costea.in}{\underline{alex@costea.in}} $|$
@@ -119,68 +101,39 @@
 \href{https://github.com/Alex-Costea}{\underline{github.com/Alex-Costea}}
 \end{center}
 
-%-----------SUMMARY-----------
-\section{Summary}
-Passionate, motivated and skilled software engineer with multiple years of professional experience at Europe's largest software company. Multiple times Computer Science national Olympiad contestant in Romania, including a bronze medal in 6th grade. Thrives in fast-paced, innovative environments that value both depth and breadth of knowledge. Moved to the United States in September 2024, and received work authorization (Employment Authorization Document) in April 2025. Actively looking for opportunities in web development, AI, B2B SaaS and other software development positions.
-
 %-----------EXPERIENCE-----------
 \section{Experience}
 \resumeSubHeadingListStart
 
 \resumeSubheading
-{Software Engineer}{April 2025 -- Present}
-{Shalestone Capital, Unpaid}{Syracuse, New York}
+{Research Engineer}{July 2025 - Present}
+{Metaculus, Full-time}{United States (Remote)}
 \resumeItemListStart
-\resumeItem{Actively developing a TypeScript/Node app for the analysis/retrieval of information and summarization of email inboxes using AI technology, thus saving users a significant amount of time spent on organization and management}
+\resumeItem{Lead the successful implementation of the Question Links feature, which allows users to input statistical connections between forecasts, automatically performs coherence checks and prompts users to update forecasts when necessary}
+\resumeItem{Engineered AI tooling for the automatic creation of Question Links, by performing statistical analysis on multi-step LLM pipelines to determine reliable connections between forecasts and submitting them using the Metaculus API}
+
+
 \resumeItemListEnd
 
 \resumeSubheading
-{Software Engineer}{March 2025 -- Present}
-{TechEngine Capital, Unpaid}{Syracuse, New York}
-\resumeItemListStart
-\resumeItem{Developed and deployed a full-stack React/Node app that scrapes business opportunities and notifies users of new postings, as well as provides AI-generated overviews of the businesses, thus significantly streamlining the acquisition process}
-\resumeItemListEnd
-
-\resumeSubheading
-{Software Engineer II}{Apr 2024 -- Sep 2024}
+{Software Engineer}{July 2022 -- Sep 2024}
 {SAP, Full-time}{Bucharest, Romania}
+\resumeSubSubheading
+{Software Engineer}{Apr 2024 -- Sep 2024}
 \resumeItemListStart
 \resumeItem{Lead the development of an internal hardware sourcing app, including various user roles and automated workflows based on business requirements, thus streamlining the tracking of resources and reducing costs significantly}
-\resumeItem{Developed an internal terminal tool to streamline the process of compiling, building and deploying Commerce Cloud instances using Python and Unix Shell, thus reducing developer time spent on manual tasks}
-
+\resumeItem{Developed an internal terminal tool to streamline the process of compiling, building and deploying Commerce Cloud instances using Python and Unix Shell, thus reducing developer time spent on manual terminal tasks}
 \resumeItemListEnd
 
-\resumeSubheading
-{Software Engineer I}{July 2022 -- Mar 2024}
-{SAP, Full-time}{Bucharest, Romania}
+\resumeSubSubheading
+{Junior Software Engineer}{July 2022 -- Mar 2024}
 \resumeItemListStart
-\resumeItem{Lead the development of an AI Assistant using OpenAI services and RAG pipelines, developed with TypeScript and CSS in the front-end and Python and Flask in the back-end, which is estimated to reduce costs by 1.8 million dollars per year}
+\resumeItem{Lead the development of an AI assistant using RAG pipelines, developed with TypeScript and CSS in the front-end and Python and Flask in the back-end, which is estimated to reduce costs by 1.8 million dollars per year}
 \resumeItem{Implemented new features for a Commerce Cloud project using TypeScript, Angular and CSS, such as integrating HTTP services, creating components and handling localization for a 2 billion dollars per year revenue company}
 \resumeItem{Developed solutions for numerous Java, Spring and SQL back-end issues, as well as JavaScript, TypeScript, JQuery and Angular front-end issues, within SAP Commerce Cloud systems for multiple multi-national clients}
 \resumeItem{Provided mentorship to 4 co-workers in successfully passing the Oracle Certified Associate Java Exam, as well as in their integration within projects, thus contributing to their success within the company}
-
 \resumeItemListEnd
-
-% -----------Multiple Positions Heading-----------
-%    \resumeSubSubheading
-%     {Software Engineer I}{Oct 2014 - Sep 2016}
-%     \resumeItemListStart
-%        \resumeItem{Apache Beam}
-%          {Apache Beam is a unified model for defining both batch and streaming data-parallel processing pipelines}
-%     \resumeItemListEnd
-%    \resumeSubHeadingListEnd
-%-------------------------------------------
-
-\resumeSubheading
-{Data Analyst}{September 2018}
-{CEREFREA Villa Noël, Internship}{Bucharest, Romania}
-\resumeItemListStart
-\resumeItem{Crawled the web and scraped online articles from extremist websites, in order to facilitate their analysis}
-\resumeItem{Performed statistical and natural language analysis of the collected data using the NLTK library in Python}
-\resumeItemListEnd
-
 \resumeSubHeadingListEnd
-
 
 %-----------EDUCATION-----------
 \section{Education}
@@ -188,6 +141,9 @@ Passionate, motivated and skilled software engineer with multiple years of profe
 \resumeSubheading
 {University of Amsterdam}{Amsterdam, Netherlands}
 {Bachelor of Science in Sociology. GPA: 7.75 (US equivalent: A)}{September 2019 -- August 2022}
+\resumeItemListStart
+\resumeItem{Bachelor's Thesis: Centrality and Influence within COVID-19 Anti-vaccine Networks on Twitter}
+\resumeItemListEnd
 
 \resumeSubHeadingListEnd
 
@@ -195,19 +151,25 @@ Passionate, motivated and skilled software engineer with multiple years of profe
 %-----------PROJECTS-----------
 \section{Projects}
 \resumeSubHeadingListStart
+
 \resumeProjectHeading
-{\textbf{\href{https://wiles.costea.in/}{{Wiles (programming language, online code editor and interpreter)}}}}{August 2022 -- Present}
+{\textbf{Business Notifications for TechEngine Capital}}{April 2025 - June 2025}
 \resumeItemListStart
-\resumeItem{Designed the specifications for a programming language, supporting features such as conditional statements, loops, various data types, first-class functions, generics, sum types, hash maps, pattern matching and type inference}
-\resumeItem{Implemented the software architecture to parse the input code into an Abstract Syntax Tree, to check the syntax tree for correctness and type safety, to infer unspecified type definitions and to interpret and execute the syntax tree}
+\resumeItem{Developed and deployed a full-stack React/Node app that scrapes business opportunities,  notifies users of new postings and provides AI-generated overviews of the businesses, thus streamlining the acquisition process}
+
+\resumeItemListEnd
+
+\resumeProjectHeading
+{\textbf{Wiles (programming language, online code editor and interpreter)}}{August 2022 -- Present}
+\resumeItemListStart
+\resumeItem{Wrote the specifications for a programming language, supporting features such as conditional statements, loops, various data types, first-class functions, generics, sum types, hash maps, pattern matching and type inference}
+\resumeItem{Designed the software architecture to parse the input code into an Abstract Syntax Tree, to check the syntax tree for correctness and type safety, to infer unspecified type definitions and to interpret and execute the syntax tree}
 \resumeItem{Developed a Java and Spring Web based back-end for the online interpreter, which can receive REST API calls with Wiles code to execute and return the output, with support for concurrent calls}
 \resumeItem{Built and deployed a secure front-end which allows users to interact with the Wiles interpreter online as well as locally, including a syntax and error highlighter, developed using TypeScript, React, CSS and Vite}
 \resumeItem{Wrote extensive tests to thoroughly validate the application, achieving 90\%+ test coverage for the interpreter}
 
 \resumeItemListEnd
-
 \resumeSubHeadingListEnd
-
 
 
 %
@@ -216,7 +178,7 @@ Passionate, motivated and skilled software engineer with multiple years of profe
 \begin{itemize}[leftmargin=0.15in, label={}]
 \small{\item{
 \textbf{Languages}{: TypeScript, Java (Oracle Certified Associate), Python, Kotlin, JavaScript, HTML, CSS, Shell, SPSS} \\
-\textbf{Frameworks and Libraries}{: React, Angular, Vite, Spring, Spring Boot, Flask, Node.js, Express, NLTK, JQuery} \\
+\textbf{Frameworks and Libraries}{: React, Angular, Django, Vite, Spring, Spring Boot, Flask, Node.js, Express, JQuery} \\
 \textbf{Developer Tools}{: Git, Docker, Amazon Web Services, VS Code, IntelliJ, Apache Ant, Maven, Postman, Kubernetes} \\
 \textbf{Technologies}{: Nginx, Caddy, JSON, SQL, Azure, AWS, REST APIs, HTTP, Regex, Ajax, Windows, Linux, Mac} \\
 }}
