@@ -1,4 +1,4 @@
-Hey! I am **Alex Costea**, a research software engineer based for **Metaculus** in Rochester, New York.
+Hey! I am **Alex Costea**, a research software engineer for **Metaculus** located in Rochester, New York.
 
 If you are interested in my services, please feel free to connect with me on LinkedIn or via email at alex@costea.in.
 
